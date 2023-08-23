@@ -1,4 +1,4 @@
-#**Liferay** 
+#***Markdown*** Liferay Training 
 
 
- ![this is a logo of liferay ](image-1.png)
+ [![This is an alt you are holding.](./image.png)](https://www.linkedin.com/in/samir-eddebbarhi-89629b210/)
